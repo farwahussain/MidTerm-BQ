@@ -407,28 +407,35 @@ i{
 
 @media only screen and (max-width: 720px) {
     .head{
-        background-position: center;
+        background-position: top;
         background-size: cover;
+        padding: 10px;
     }
 
     .frst-H{
-        font-size: 30px;
-        height: 200px;
+        font-size: 13px;
+        height: 130px;
+        margin: 10px;
     }
     
     .short-H{
-        font-size: 30px;
-        height: 50px;
+        font-size: 13px;
+        height: 17px;
+        margin: 2px;
     } 
     
     .get{
-        font-size: 20px;
-        padding: 10px 20px;
-        bottom: 250px;
+        font-size: 8px;
+        padding: 5px 10px;
+        bottom: 150px;
+        height: 10px;
+        width: 60px;
     }
 
     .side-h{
-        font-size: 30px;
+        font-size: 15px;
+        padding: 5px;
+        margin: 5px;
     } 
     
     .ser-button{
