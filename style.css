@@ -405,7 +405,7 @@ i{
     
 }
 
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     .head{
         background-position: center;
         background-size: cover;
